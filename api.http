@@ -1,0 +1,8 @@
+POST http://localhost:3000/livros
+Content-Type: application/json
+
+{
+  "titulo": "Teste Livro ",
+  "autor": “Vinicius”,
+  "anoPublicacao": 2025
+}
